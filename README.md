@@ -15,7 +15,7 @@
   - BeautifulSoup:HTML解析
 
 ## 使い方  
-1. **Pythonインストール**
+1. **Pythonインストール**  
    [公式サイト](https://www.python.org/)からインストールしてください。
 
 2. **クローンorダウンロード**
